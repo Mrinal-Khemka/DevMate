@@ -8,7 +8,7 @@ package eduPort;
 
 /**
  *
- * @author Manish
+ * @author mrinal khemka
  */
 public class Feedback {
     
